@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "name": "Gordon Ramsay",
+      "experience": 30,
+      "recipes": 500,
+      "likes": 1500000,
+      "bio": "Gordon James Ramsay is a British chef, restaurateur, television personality, and writer. He has been awarded a total of 16 Michelin stars, and in 2011, he was named the second-highest-earning chef in the world by Forbes magazine. He is known for his fiery personality and blunt critiques on shows such as Hell's Kitchen and MasterChef.",
+      "picture": "https://cdn.pixabay.com/photo/2015/09/18/19/03/gordon-ramsay-548217_960_720.jpg",
+      "cuisine": "American"
+    },
+    {
+      "id": 2,
+      "name": "Bobby Flay",
+      "experience": 35,
+      "recipes": 400,
+      "likes": 800000,
+      "bio": "Robert William Flay is an American celebrity chef, restaurateur, and reality television personality. He is the owner and executive chef of several restaurants, including Mesa Grill, Bar Americain, and Bobby's Burger Palace. Flay has hosted several cooking shows on Food Network, including Boy Meets Grill, Grill It! with Bobby Flay, and Beat Bobby Flay.",
+      "picture": "https://cdn.pixabay.com/photo/2015/03/17/14/05/bobby-flay-678244_960_720.jpg",
+      "cuisine": "American"
+    },
+    {
+      "id": 3,
+      "name": "Emeril Lagasse",
+      "experience": 40,
+      "recipes": 300,
+      "likes": 500000,
+      "bio": "Emeril John Lagasse is an American celebrity chef, restaurateur, and television personality. He is known for his cooking shows on the Food Network, including Emeril Live and Essence of Emeril, and for his catchphrases, \"Bam!\" and \"Kick it up a notch!\". Lagasse is the owner and executive chef of several restaurants, including Emeril's New Orleans, Emeril's Delmonico, and Emeril's Coastal Italian.",
+      "picture": "https://cdn.pixabay.com/photo/2019/08/29/07/03/emeril-lagasse-4433436_960_720.jpg",
+      "cuisine": "American"
+    },
+    {
+      "id": 4,
+      "name": "Guy Fieri",
+      "experience": 25,
+      "recipes": 250,
+      "likes": 400000,
+      "bio": "Guy Ramsay Fieri is an American restaurateur, author, and television personality. He co-owns three restaurants in California, licenses his name to restaurants in New York City and Las Vegas, Nevada, and is known for hosting several food-themed television series on the Food Network, including Diners, Drive-Ins and Dives.",
+      "picture": "https://cdn.pixabay.com/photo/2016/11/30/16/28/guy-fieri-1874481_960_720.jpg",
+      "cuisine": "American"
+    },
+      
+      {
+        "id": 5,
+        "name": "Ina Garten",
+        "experience": 30,
+        "recipes": 1000,
+        "likes": 1200000,
+        "bio": "Ina Garten is an American chef, author, and television personality. She is best known for her cooking show, Barefoot Contessa, which premiered in 2002. Prior to her career in food, Garten worked as a nuclear policy analyst for the White House.",
+        "picture": "https://cdn.pixabay.com/photo/2021/05/13/12/21/ina-garten-6257289_960_720.jpg",
+        "cuisine": "American"
+      },
+     
+      {
+        "id": 6,
+        "name": "Mario Batali",
+        "experience": 30,
+        "recipes": 600,
+        "likes": 700000,
+        "bio": "Mario Batali is an American chef, restaurateur, and author. He is the owner and executive chef of several restaurants, including Babbo Ristorante e Enoteca and Del Posto. Batali is also a television personality, appearing on shows such as Iron Chef America and The Chew. He has been the recipient of numerous awards for his culinary achievements.",
+        "picture": "https://cdn.pixabay.com/photo/2015/02/26/09/38/mario-batali-649152_960_720.jpg",
+        "cuisine": "American"
+      },
+      {
+        "id": 7,
+        "name": "Paula Deen",
+        "experience": 30,
+        "recipes": 1000,
+        "likes": 500000,
+        "bio": "Paula Deen is an American celebrity chef, restaurateur, and author. She is best known for her Southern-style cooking and her cooking show, Paula's Home Cooking. Deen has authored several cookbooks and has been a guest on numerous television shows, including The Oprah Winfrey Show and The Chew.",
+        "picture": "https://cdn.pixabay.com/photo/2017/05/07/18/28/paula-deen-2293823_960_720.jpg",
+        "cuisine": "American"
+      },
+      {
+        "id": 8,
+        "name": "Massimo Bottura",
+        "experience": 25,
+        "recipes": 90,
+        "likes": 1900,
+        "image": "https://i.imgur.com/tbJl8Ew.jpg",
+        "bio": "Massimo Bottura is an Italian chef and owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his modern and innovative approach to traditional Italian cuisine, which has led him to be regarded as one of the best chefs in the world. Bottura has been awarded numerous accolades for his culinary achievements.",
+        "picture": "https://cdn.pixabay.com/photo/2017/05/07/18/28/paula-deen-2293823_960_720.jpg",
+        "cuisine": "American"
+      }
+    ]
