@@ -1,6 +1,6 @@
-[{
+[{  "id": 1,
     "chef": {
-      "id": 1,
+     
       "name": "Gordon Ramsay",
       "cuisine": "American"
     },
@@ -15,7 +15,8 @@
           "English mustard"
         ],
         "cooking_method": "1. Preheat oven to 200°C. \n2. Season the beef with salt and pepper, and sear in a hot pan with some oil until browned all over. \n3. Allow to cool.\n4. Mix finely chopped mushrooms, thyme, garlic and a little seasoning. \n5. Lay out the prosciutto on a sheet of cling film, slightly overlapping.\n6. Spread a layer of mushroom mixture over the prosciutto.\n7. Place the beef fillet on top and roll up tightly, twisting the ends of the cling film to secure. \n8. Chill for at least 30 minutes. \n9. Roll out the puff pastry and place the beef in the center. \n10. Brush with English mustard and egg wash. \n11. Bake for 20-25 minutes.\n",
-        "rating": 4.8
+        "rating": 4.8,
+        "picture": "https://www.allrecipes.com/thmb/3p2v8TUTbNiZWQfCU3jvJlPbWII=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beef-wellington-2000-24f3f2221f2042ce900ee11cf778c43f.jpg"
       },
       {
         "name": "Sticky Lemon Chicken",
@@ -27,7 +28,8 @@
           "garlic"
         ],
         "cooking_method": "1. Mix together the juice of 2 lemons, 2 tablespoons of honey, 2 tablespoons of soy sauce, and 2 crushed garlic cloves.\n2. Place 8 chicken thighs in a roasting tin and pour over the marinade.\n3. Roast in the oven for 30-40 minutes at 200°C, basting occasionally with the juices.\n4. Serve with the remaining lemon wedges and some steamed rice or vegetables.",
-        "rating": 4.5
+        "rating": 4.5,
+        "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5673674.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
       },
       {
         "name": "Beef Wellington",
@@ -39,7 +41,8 @@
           "egg"
         ],
         "cooking_method": "1. Preheat oven to 200°C/400°F. Season beef fillet with salt and pepper.\n2. Heat a pan over high heat, add a little oil and sear beef fillet until browned on all sides.\n3. Set aside to cool.\n4. In the same pan, cook mushrooms until all the moisture has evaporated.\n5. Roll out puff pastry and place a layer of prosciutto on top.\n6. Spread mushrooms on top of prosciutto, then place the beef fillet on top.\n7. Wrap the pastry tightly around the beef, ensuring there are no gaps.\n8. Brush the pastry with egg wash.\n9. Bake in oven for 35-40 minutes or until pastry is golden brown.\n10. Let rest for 10 minutes before slicing and serving.",
-        "rating": 4.8
+        "rating": 4.8,
+        "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2390013.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
       },
       {
         "name": "Beef Stroganoff",
@@ -51,7 +54,8 @@
           "beef broth"
         ],
         "cooking_method": "1. Cut the beef into thin strips.\n2. Heat a large skillet over high heat and add a little oil.\n3. Add the beef strips and cook until browned on all sides.\n4. Remove the beef from the skillet and set aside.\n5. In the same skillet, add chopped onion and mushrooms and cook until softened.\n6. Add beef broth and bring to a boil.\n7. Return the beef to the skillet and reduce heat to low.\n8. Add sour cream and stir until well combined.\n9. Cook for a few minutes until heated through.\n10. Serve over egg noodles or rice.",
-        "rating": 4.5
+        "rating": 4.5, 
+        "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9397056.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
       },
       {
         "name": "Lamb Chops",
@@ -63,14 +67,15 @@
           "salt"
         ],
         "cooking_method": "1. Preheat oven to 200°C/400°F. \n2. In a small bowl, mix together olive oil, minced garlic, chopped rosemary, and salt.\n3. Rub the mixture all over the lamb chops.\n4. Heat a skillet over high heat and sear the lamb chops for 2-3 minutes on each side.\n5. Transfer the lamb chops to a baking sheet and roast in the oven for 8-10 minutes.\n6. Let the lamb chops rest for a few minutes before serving.",
-        "rating": 4.7
+        "rating": 4.7, 
+        "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fecd9cc1a8bc6dbddc773ab4796ca9db2%2F16813976531372023-04-10-17-15-36-327.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
     }]
    
 
 },
-{
+{ "id": 2,
     "chef": {
-      "id": 2,
+      
       "name": "Bobby Flay",
       "cuisine": "American"
     },
@@ -85,7 +90,8 @@
             "garlic"
           ],
           "cooking_method": "1. Preheat grill to high heat.\n2. Brush both sides of the steak with olive oil and season with salt and black pepper.\n3. Grill the steak for 4-5 minutes on each side for medium-rare.\n4. Remove the steak from the grill and let it rest for 5 minutes.\n5. While the steak is resting, grill a few cloves of garlic until lightly charred and then chop it finely.\n6. Slice the steak and sprinkle the chopped garlic over the top.\n7. Serve immediately and enjoy!",
-          "rating": 4.5
+          "rating": 4.5,
+          "picture": "https://www.allrecipes.com/thmb/Fs2PqPjlZdTqFetpSwf87qrEYX0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8754549-bourbon-street-rib-eye-steak-MrB-4x3-1-da62ab6d73504179a730b1fa5e1ba396.jpg"
         },
         {
           "name": "Spicy Grilled Shrimp",
@@ -97,7 +103,8 @@
             "lemon"
           ],
           "cooking_method": "1. Preheat grill to high heat.\n2. Combine shrimp, olive oil, minced garlic, red pepper flakes, and lemon juice in a bowl.\n3. Toss to coat the shrimp well.\n4. Thread the shrimp onto skewers and grill for 2-3 minutes on each side.\n5. Remove the shrimp from the grill and serve immediately.\n6. Enjoy!",
-          "rating": 4.3
+          "rating": 4.3,
+          "picture": "https://www.allrecipes.com/thmb/RbS6paNjfcK6_31VM4ahskIhuZM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/730993-spicy-chipotle-grilled-shrimp-Soup-Loving-Nicole-4x3-1-f73762e5eeca4aab8af146805b70fe7c.jpg"
         },
         {
           "name": "Smoked Baby Back Ribs",
@@ -109,7 +116,8 @@
             "onion powder"
           ],
           "cooking_method": "1. Preheat smoker to 225°F.\n2. Combine brown sugar, paprika, garlic powder, onion powder, salt, and black pepper in a bowl.\n3. Rub the spice mixture all over the ribs.\n4. Place the ribs in the smoker and smoke for 4-5 hours, or until the meat is tender.\n5. Remove the ribs from the smoker and let them rest for 10 minutes.\n6. Slice the ribs and serve immediately.\n7. Enjoy!",
-          "rating": 4.7
+          "rating": 4.7,
+          "picture": "https://www.allrecipes.com/thmb/NEOAuiLPurJoEObv0URCRDKAsac=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6910102-631852f28b3e4c3e9149c7b596e3acec.jpg"
         },
         {
           "name": "Pork Tenderloin with Honey Mustard",
@@ -121,12 +129,13 @@
             "garlic"
           ],
           "cooking_method": "1. Preheat oven to 400°F.\n2. Combine dijon mustard, honey, soy sauce, and minced garlic in a bowl.\n3. Brush the pork tenderloin with the honey mustard mixture.\n4. Place the tenderloin on a baking sheet and bake for 25-30 minutes, or until the internal temperature reaches 145°F.\n5. Remove the tenderloin from the oven and let it rest for 5 minutes.\n6. Slice the tenderloin and serve immediately.\n7. Enjoy!",
-          "rating": 4.6
+          "rating": 4.6,
+          "picture":"https://www.allrecipes.com/thmb/kM_WSEjVCQcuymxAoKiNQ7TAutY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4463304-a8a0296545a8478d9c1ae81cace4fed8.jpg"
         }]},
 
- {
+ {"id": 3,
     "chef": {
-        "id": 3,
+        
         "name": "Emril Lagasse",
         "cuisine": "American"
         },
@@ -142,10 +151,9 @@
               ],
               "cooking_method": "1. Preheat grill to high heat. \n2. Season steak with salt, black pepper, and olive oil. \n3. Grill steak for 3-4 minutes per side until medium-rare. \n4. Let steak rest for 5 minutes. \n5. Slice steak against the grain into thin strips. \n6. Serve steak on warm tortillas with sliced avocado, cilantro, and a squeeze of lime.",
               "rating": 4.5,
-              "picture_links": [
-                "https://www.simplyrecipes.com/thmb/xt32_6AGFm6fwZJ6Q34Uq3rUaxQ=/735x0/Grilled-Skirt-Steak-Tacos-LEAD-5-5b32ddaec9e77c0037b94cb5.jpg",
-                "https://www.foodnetwork.ca/wp-content/uploads/2015/05/grilled-skirt-steak-tacos-recipe.jpg"
-              ]
+              "picture": 
+                "https://www.allrecipes.com/thmb/ayAjpGNydGk8YldYYDE94YoPXa4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5500103-fa848d5135a44ce6ac51e59435f628d6.jpg"
+              
             },
             {
               "name": "Southwestern Quinoa Salad",
@@ -158,10 +166,7 @@
               ],
               "cooking_method": "1. Cook quinoa according to package instructions. \n2. In a large bowl, combine cooked quinoa, black beans, corn, red bell pepper, and diced avocado. \n3. In a small bowl, whisk together olive oil, lime juice, chili powder, cumin, and salt. \n4. Drizzle dressing over salad and toss to combine. \n5. Serve chilled.",
               "rating": 4.2,
-              "picture_links": [
-                "https://www.eatwell101.com/wp-content/uploads/2019/04/southwestern-quinoa-salad-recipe.jpg",
-                "https://www.foodnetwork.ca/wp-content/uploads/2015/05/southwestern-quinoa-salad-recipe.jpg"
-              ]
+              "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2023%2F01%2F19%2F4573668-southwestern-quinoa-salad-Buckwheat-Queen-4x3-1.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
             },
             {
               "name": "Honey-Mustard Glazed Salmon",
@@ -171,112 +176,119 @@
                 "dijon mustard",
                 "soy sauce",
                 "garlic"
-              ]}]},
-{
-    "chef": {
-        "id": 4,
-        "name": "Massimo Bottura",
-        "cuisine": "American"
-         },
-    "recipes": [
-        {
-          "name": "Shrimp and Andouille Gumbo",
-          "ingredients": [
-            "andouille sausage",
-            "shrimp",
-            "celery",
-            "onion",
-            "green bell pepper"
-          ],
-          "cooking_method": "1. Make a roux by combining oil and flour in a large, heavy-bottomed pot. Cook over medium heat until the roux is a deep golden brown color.\n2. Add chopped celery, onion, and green bell pepper to the pot and cook until the vegetables are softened.\n3. Add chicken broth, andouille sausage, and diced tomatoes to the pot and bring to a simmer.\n4. Let the gumbo simmer for about 30 minutes, then add the shrimp and cook until they are pink and opaque.\n5. Serve the gumbo over steamed rice.",
-          "rating": 4.5,
-          "picture": "https://www.foodnetwork.com/content/dam/images/food/video/2/25/255/2553/255383.jpg"
-        },
-        {
-          "name": "Red Beans and Rice",
-          "ingredients": [
-            "red kidney beans",
-            "andouille sausage",
-            "celery",
-            "onion",
-            "green bell pepper"
-          ],
-          "cooking_method": "1. Soak the beans overnight, then drain and rinse them.\n2. Cook the andouille sausage in a large pot until browned, then remove and set aside.\n3. Add chopped celery, onion, and green bell pepper to the pot and cook until the vegetables are softened.\n4. Add the beans, chicken broth, and spices to the pot and bring to a simmer.\n5. Cook the beans for about 2 hours, or until they are tender.\n6. Serve the beans over steamed rice, and top with the cooked andouille sausage.",
-          "rating": 4.2,
-          "picture": "https://www.foodnetwork.com/content/dam/images/food/video/4/45/458/4588/458870.jpg"
-        },
-        {
-          "name": "Chicken and Sausage Jambalaya",
-          "ingredients": [
-            "boneless, skinless chicken thighs",
-            "andouille sausage",
-            "onion",
-            "green bell pepper",
-            "celery"
-          ],
-          "cooking_method": "1. Cook the chicken thighs in a large pot until browned on both sides, then remove and set aside.\n2. Add chopped onion, green bell pepper, and celery to the pot and cook until the vegetables are softened.\n3. Add andouille sausage to the pot and cook until browned.\n4. Add diced tomatoes, chicken broth, and spices to the pot and bring to a simmer.\n5. Add the cooked chicken back to the pot, then add uncooked rice and stir to combine.\n6. Cover the pot and simmer until the rice is cooked and most of the liquid has been absorbed.\n7. Serve the jambalaya hot.",
-          "rating": 4.4,
-          "picture": "https://www.foodnetwork.com/content/dam/images/food/video/1/11/119/1195/119502.jpg"
-        }]},
+              ],
+              "cooking_method": "1. Preheat oven to 400°F. Season chicken breasts with salt and pepper, then dredge in flour.\n2. Beat eggs in a bowl. Dip chicken breasts in egg mixture, then coat in panko breadcrumbs.\n3. Heat olive oil in a skillet over medium-high heat. Add chicken breasts and cook until golden brown on both sides, about 5 minutes per side.\n4. Transfer chicken breasts to a baking dish. Top with tomato sauce and mozzarella cheese.\n5. Bake in preheated oven until cheese is melted and bubbly, about 10 minutes.\n6. Serve with spaghetti or other pasta.",
+      "rating": 4.2,
+      "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9409254.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
+    }]},
 
-{
+{ "id": 4,
+"chef": {
+                       
+                       "name": "Guy Fieri",
+                       "cuisine": "American"
+                               },
+  "recipes": [
+                    {
+                        "name": "Cajun Chicken Alfredo",
+                        "ingredients": [
+                            "penne pasta",
+                            "chicken breast",
+                            "heavy cream",
+                            "butter",
+                            "cajun seasoning",
+                            "garlic",
+                            "parmesan cheese"
+                        ],
+                        "cooking_method": "1. Cook the pasta according to package directions.\n2. Heat a large skillet over medium-high heat.\n3. Season the chicken with cajun seasoning.\n4. Add butter to the skillet and cook chicken until browned on both sides.\n5. Remove chicken from skillet and set aside.\n6. Add garlic to the skillet and cook until fragrant.\n7. Pour in the heavy cream and bring to a simmer.\n8. Add parmesan cheese and stir until melted.\n9. Add cooked pasta to the skillet and toss to coat in the sauce.\n10. Slice the chicken and place on top of the pasta before serving.",
+                        "rating": 4.5,
+                        "picture": "https://www.allrecipes.com/thmb/4I6m5iiZTAFH7marnbHOlbdd9DE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8313287-8fd365f4eb974291a002a3d5a65f18e2.jpg"
+                    },
+                    {
+                        "name": "Asian Chicken Lettuce Wraps",
+                        "ingredients": [
+                            "ground chicken",
+                            "water chestnuts",
+                            "soy sauce",
+                            "hoisin sauce",
+                            "rice vinegar",
+                            "brown sugar",
+                            "ginger",
+                            "garlic",
+                            "lettuce leaves"
+                        ],
+                        "cooking_method": "1. Heat a large skillet over medium-high heat.\n2. Add ground chicken and cook until browned.\n3. Add water chestnuts, soy sauce, hoisin sauce, rice vinegar, brown sugar, ginger, and garlic.\n4. Cook until the sauce has thickened and the chicken is cooked through.\n5. Remove from heat and let cool for a few minutes.\n6. Spoon the chicken mixture onto lettuce leaves and serve.",
+                        "rating": 4.2,
+                        "picture": "https://www.allrecipes.com/thmb/8oNQ0GWbeKyvhyeb9eZGsDjbsVE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/9106095-fc089abb496a450cbff983416732c42f.jpg"
+                    },
+                    {
+                        "name": "Mongolian Beef",
+                        "ingredients": [
+                            "beef sirloin",
+                            "cornstarch",
+                            "soy sauce",
+                            "hoisin sauce",
+                            "brown sugar",
+                            "garlic",
+                            "green onions"
+                        ],
+                        "cooking_method": "1. Thinly slice the beef and toss with cornstarch.\n2. Heat a large skillet over high heat.\n3. Add the beef and cook until browned on both sides.\n4. Remove the beef from the skillet and set aside.\n5. In the same skillet, add soy sauce, hoisin sauce, brown sugar, garlic, and green onions.\n6. Cook until the sauce has thickened.\n7. Return the beef to the skillet and toss to coat in the sauce.\n8. Serve over rice.",
+                        "rating": 4.7,
+                        "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F09%2F27%2F2369384-slow-cooker-mongolian-beef-Amy-Lawler-4x3-1.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
+                    }]},
+  {    "id": 5,
+       "chef": {
+                          
+         "name": "Ina Garten",
+          "cuisine": "American"
+                                     },
+                     
+  "recipes": [
+                      {
+                        "name": "Lemon Chicken Breasts",
+                        "ingredients": [
+                          "boneless, skinless chicken breasts",
+                          "olive oil",
+                          "lemon juice",
+                          "garlic",
+                          "dried oregano"
+                        ],
+                        "cooking_method": "1. Preheat the oven to 400°F (205°C).\n2. Place the chicken breasts in a baking dish and drizzle with olive oil.\n3. Add lemon juice, garlic, and dried oregano to the dish and mix well.\n4. Bake in the preheated oven for 25-30 minutes or until the chicken is cooked through.\n5. Serve hot and garnish with fresh parsley.",
+                        "rating": 4.5,
+                        "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fce85cda06300b89b1df53c94d99de856%2F1643344890F959D3EC-36EE-49B1-B58C-268D23671A79.jpeg&q=60&c=sc&orient=true&poi=auto&h=512"
+                      },
+                      {
+                        "name": "Herb-Roasted Turkey Breast",
+                        "ingredients": [
+                          "turkey breast",
+                          "butter",
+                          "garlic",
+                          "rosemary",
+                          "thyme"
+                        ],
+                        "cooking_method": "1. Preheat the oven to 325°F (160°C).\n2. In a small saucepan, melt the butter and add minced garlic, rosemary, and thyme.\n3. Place the turkey breast in a roasting pan and brush with the herb butter.\n4. Roast in the preheated oven for 1 1/2 to 2 hours or until the internal temperature reaches 165°F (74°C).\n5. Let the turkey rest for 10 minutes before slicing and serving.",
+                        "rating": 4.2,
+                        "picture": "https://www.allrecipes.com/thmb/UfjqXypdbw-VTqBWOhF1KV1o_EI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1020571-roasted-turkey-breast-with-herbs-Marianne-4x3-1-cd734bfc49f14340a7c9239236f9fef2.jpg"
+                      },
+                      {
+                        "name": "Perfect Roast Chicken",
+                        "ingredients": [
+                          "whole chicken",
+                          "kosher salt",
+                          "black pepper",
+                          "lemon",
+                          "garlic"
+                        ],
+                        "cooking_method": "1. Preheat the oven to 425°F (218°C).\n2. Season the chicken inside and out with kosher salt and black pepper.\n3. Stuff the cavity with lemon and garlic.\n4. Place the chicken in a roasting pan and roast in the preheated oven for 1 1/2 to 2 hours or until the internal temperature reaches 165°F (74°C).\n5. Let the chicken rest for 10 minutes before carving and serving.",
+                        "rating": 4.8,
+                        "picture": "https://www.allrecipes.com/thmb/NJJvvDdArwW-PUTp6W2HMbTAzt4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2176757-58890e316ff04da89013ef22a30b0fbe.jpg"
+          }]},
+
+
+{   "id": 6,
     "chef": {
-           "id": 5,
-           "name": "Guy Fieri",
-           "cuisine": "American"
-                   },
-    "recipes": [
-        {
-            "name": "Cajun Chicken Alfredo",
-            "ingredients": [
-                "penne pasta",
-                "chicken breast",
-                "heavy cream",
-                "butter",
-                "cajun seasoning",
-                "garlic",
-                "parmesan cheese"
-            ],
-            "cooking_method": "1. Cook the pasta according to package directions.\n2. Heat a large skillet over medium-high heat.\n3. Season the chicken with cajun seasoning.\n4. Add butter to the skillet and cook chicken until browned on both sides.\n5. Remove chicken from skillet and set aside.\n6. Add garlic to the skillet and cook until fragrant.\n7. Pour in the heavy cream and bring to a simmer.\n8. Add parmesan cheese and stir until melted.\n9. Add cooked pasta to the skillet and toss to coat in the sauce.\n10. Slice the chicken and place on top of the pasta before serving.",
-            "rating": 4.5,
-            "picture": "https://www.spendwithpennies.com/wp-content/uploads/2019/02/Cajun-Chicken-Alfredo-SpendWithPennies-21.jpg"
-        },
-        {
-            "name": "Asian Chicken Lettuce Wraps",
-            "ingredients": [
-                "ground chicken",
-                "water chestnuts",
-                "soy sauce",
-                "hoisin sauce",
-                "rice vinegar",
-                "brown sugar",
-                "ginger",
-                "garlic",
-                "lettuce leaves"
-            ],
-            "cooking_method": "1. Heat a large skillet over medium-high heat.\n2. Add ground chicken and cook until browned.\n3. Add water chestnuts, soy sauce, hoisin sauce, rice vinegar, brown sugar, ginger, and garlic.\n4. Cook until the sauce has thickened and the chicken is cooked through.\n5. Remove from heat and let cool for a few minutes.\n6. Spoon the chicken mixture onto lettuce leaves and serve.",
-            "rating": 4.2,
-            "picture": "https://www.dinneratthezoo.com/wp-content/uploads/2019/05/asian-chicken-lettuce-wraps-3.jpg"
-        },
-        {
-            "name": "Mongolian Beef",
-            "ingredients": [
-                "beef sirloin",
-                "cornstarch",
-                "soy sauce",
-                "hoisin sauce",
-                "brown sugar",
-                "garlic",
-                "green onions"
-            ],
-            "cooking_method": "1. Thinly slice the beef and toss with cornstarch.\n2. Heat a large skillet over high heat.\n3. Add the beef and cook until browned on both sides.\n4. Remove the beef from the skillet and set aside.\n5. In the same skillet, add soy sauce, hoisin sauce, brown sugar, garlic, and green onions.\n6. Cook until the sauce has thickened.\n7. Return the beef to the skillet and toss to coat in the sauce.\n8. Serve over rice.",
-            "rating": 4.7,
-            "picture": "https://www.dinneratthezoo.com/wp-content/uploads/2019/08/mongolian-beef-4.jpg"
-        }]},
-{
-    "chef": {
-         "id": 6,
-        "name": "Gordon Ramsay",
+         
+        "name": "Mario Batali",
         "cuisine": "American"
                        },
        "recipes": [
@@ -291,7 +303,7 @@
                           ],
                           "cooking_method": "1. Cook spaghetti in a large pot of salted boiling water until al dente. Reserve 1/2 cup of pasta water, then drain spaghetti and return to pot.\n2. Cook pancetta in a skillet over medium heat until crisp, about 5 minutes. Using a slotted spoon, transfer pancetta to a bowl.\n3. Whisk together egg yolks, pecorino romano cheese, black pepper, and 1/4 cup of reserved pasta water in a bowl.\n4. Add pancetta and egg mixture to spaghetti and toss well. Add additional pasta water if needed to loosen sauce. Serve immediately.",
                           "rating": 4.5,
-                          "picture": "https://www.simplyrecipes.com/wp-content/uploads/2011/04/spaghetti-carbonara-vertical-a-1800-768x512.jpg"
+                          "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9398281.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
                         },
                         {
                           "name": "Osso Buco",
@@ -304,7 +316,7 @@
                           ],
                           "cooking_method": "1. Preheat oven to 375°F.\n2. Season veal shanks with salt and pepper and dredge in flour.\n3. Heat olive oil in a large dutch oven over medium-high heat. Add veal shanks and brown on all sides, about 10 minutes.\n4. Remove veal shanks from dutch oven and set aside. Add onion, carrots, and celery to dutch oven and sauté until soft, about 10 minutes.\n5. Return veal shanks to dutch oven and add chicken broth. Bring to a simmer, cover, and transfer to oven. Cook until meat is tender, about 2 hours.\n6. Serve veal shanks over mashed potatoes or risotto.",
                           "rating": 4.8,
-                          "picture": "https://www.foodiecrush.com/wp-content/uploads/2014/03/Osso-Buco-FoodieCrush.com-017.jpg"
+                          "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8962070.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
                         },
                         {
                           "name": "Chicken Parmesan",
@@ -317,59 +329,13 @@
                           ],
                           "cooking_method": "1. Preheat oven to 400°F. Season chicken breasts with salt and pepper, then dredge in flour.\n2. Beat eggs in a bowl. Dip chicken breasts in egg mixture, then coat in panko breadcrumbs.\n3. Heat olive oil in a skillet over medium-high heat. Add chicken breasts and cook until golden brown on both sides, about 5 minutes per side.\n4. Transfer chicken breasts to a baking dish. Top with tomato sauce and mozzarella cheese.\n5. Bake in preheated oven until cheese is melted and bubbly, about 10 minutes.\n6. Serve with spaghetti or other pasta.",
                           "rating": 4.2,
-                          "picture": "https://www.simplyrecipes.com/wp-content/uploads/2014/01/chicken-parmesan-horiz-a-1800-768x512.jpg"
+                          "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F4b067cd907c6d86384b336405a8c505e%2F1683029923437IMG_4652.jpeg&q=60&c=sc&orient=true&poi=auto&h=512"
                         }]},
-{
-    "chef": {
-        "id": 7,
-        "name": "Ina Garten",
-        "cuisine": "American"
-                   },
-   
-  "recipes": [
-    {
-      "name": "Lemon Chicken Breasts",
-      "ingredients": [
-        "boneless, skinless chicken breasts",
-        "olive oil",
-        "lemon juice",
-        "garlic",
-        "dried oregano"
-      ],
-      "cooking_method": "1. Preheat the oven to 400°F (205°C).\n2. Place the chicken breasts in a baking dish and drizzle with olive oil.\n3. Add lemon juice, garlic, and dried oregano to the dish and mix well.\n4. Bake in the preheated oven for 25-30 minutes or until the chicken is cooked through.\n5. Serve hot and garnish with fresh parsley.",
-      "rating": 4.5,
-      "picture": "https://www.foodnetwork.com/content/dam/images/food/video/3/37/3700/3703/3703-2-horiz.jpg"
-    },
-    {
-      "name": "Herb-Roasted Turkey Breast",
-      "ingredients": [
-        "turkey breast",
-        "butter",
-        "garlic",
-        "rosemary",
-        "thyme"
-      ],
-      "cooking_method": "1. Preheat the oven to 325°F (160°C).\n2. In a small saucepan, melt the butter and add minced garlic, rosemary, and thyme.\n3. Place the turkey breast in a roasting pan and brush with the herb butter.\n4. Roast in the preheated oven for 1 1/2 to 2 hours or until the internal temperature reaches 165°F (74°C).\n5. Let the turkey rest for 10 minutes before slicing and serving.",
-      "rating": 4.2,
-      "picture": "https://www.foodnetwork.com/content/dam/images/food/video/4/45/458/4584/4584-1-horiz.jpg"
-    },
-    {
-      "name": "Perfect Roast Chicken",
-      "ingredients": [
-        "whole chicken",
-        "kosher salt",
-        "black pepper",
-        "lemon",
-        "garlic"
-      ],
-      "cooking_method": "1. Preheat the oven to 425°F (218°C).\n2. Season the chicken inside and out with kosher salt and black pepper.\n3. Stuff the cavity with lemon and garlic.\n4. Place the chicken in a roasting pan and roast in the preheated oven for 1 1/2 to 2 hours or until the internal temperature reaches 165°F (74°C).\n5. Let the chicken rest for 10 minutes before carving and serving.",
-      "rating": 4.8,
-      "picture": "https://www.foodnetwork.com/content/dam/images/food/fullset/2019/7/23/0/FNK_Perfect-Roast-Chicken_H1.jpg"
-    }]},
 
-{
+
+{   "id": 7,
     "chef": {
-        "id": 8,
+        
         "name": "Paula Deen",
         "cuisine": "American"
                    },
@@ -385,7 +351,7 @@
                       ],
                       "cooking_method": "1. Soak the chicken pieces in buttermilk overnight in the fridge.\n2. Preheat the oil in a deep-fryer or large pot to 350 degrees F.\n3. In a separate bowl, mix together flour, salt, and pepper.\n4. Remove chicken from buttermilk and coat each piece in the flour mixture.\n5. Fry the chicken in the hot oil until crispy and golden brown, about 15 minutes for drumsticks and wings and 20 minutes for breasts and thighs.",
                       "rating": 4.5,
-                      "picture": "https://www.simplyrecipes.com/thmb/nViwLM5gbuLrWEr0zqMRSFVUmxQ=/735x0/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2009__09__southern-fried-chicken-horiz-a-1200-a833a29e394f4967af57e5f5c7f83d9e.jpg"
+                      "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8451535.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
                     },
                     {
                       "name": "Shrimp and Grits",
@@ -398,7 +364,7 @@
                       ],
                       "cooking_method": "1. Cook grits according to package instructions.\n2. Cook bacon in a skillet until crispy, then remove and chop.\n3. In the same skillet, add butter and sauté chopped onions until tender.\n4. Add shrimp to the skillet and cook until pink.\n5. Serve shrimp and onion mixture over the cooked grits and sprinkle with chopped bacon.",
                       "rating": 4.2,
-                      "picture": "https://www.simplyrecipes.com/thmb/PFp0tR03w5JD5ZZawcB_m5Ykl2Q=/735x0/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2008__01__shrimp-grits-horiz-a-2000-2000x1333-4a4fcb4d2c4c4f979c19e9cfb9a6988f.jpg"
+                      "picture": "https://www.allrecipes.com/thmb/bxW3ZsAkq8ilRGzEhI-k7-WT2JA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2468310-798875221ec24f1e9c79d76dfe4fc130.jpg"
                     },
                     {
                         "name": "Osso Buco",
@@ -411,8 +377,55 @@
                         ],
                         "cooking_method": "1. Preheat oven to 375°F.\n2. Season veal shanks with salt and pepper and dredge in flour.\n3. Heat olive oil in a large dutch oven over medium-high heat. Add veal shanks and brown on all sides, about 10 minutes.\n4. Remove veal shanks from dutch oven and set aside. Add onion, carrots, and celery to dutch oven and sauté until soft, about 10 minutes.\n5. Return veal shanks to dutch oven and add chicken broth. Bring to a simmer, cover, and transfer to oven. Cook until meat is tender, about 2 hours.\n6. Serve veal shanks over mashed potatoes or risotto.",
                         "rating": 4.8,
-                        "picture": "https://www.foodiecrush.com/wp-content/uploads/2014/03/Osso-Buco-FoodieCrush.com-017.jpg"
-                      }]}
+                        "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3096193.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
+                      }]},
+ {"id": 8,
+ "chef": {
+        
+         "name": "Massimo Bottura",
+         "cuisine": "American"
+                             },
+  "recipes": [
+                            {
+          "name": "Shrimp and Andouille Gumbo",
+           "ingredients": [
+                                "andouille sausage",
+                                "shrimp",
+                                "celery",
+                                "onion",
+                                "green bell pepper"
+                              ],
+             "cooking_method": "1. Make a roux by combining oil and flour in a large, heavy-bottomed pot. Cook over medium heat until the roux is a deep golden brown color.\n2. Add chopped celery, onion, and green bell pepper to the pot and cook until the vegetables are softened.\n3. Add chicken broth, andouille sausage, and diced tomatoes to the pot and bring to a simmer.\n4. Let the gumbo simmer for about 30 minutes, then add the shrimp and cook until they are pink and opaque.\n5. Serve the gumbo over steamed rice.",
+                              "rating": 4.5,
+                              "picture": "https://www.allrecipes.com/thmb/o8ImrywzsOy2Smn5oxbsZDBaYMQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/235356_chef-johns-duck-sausage-and-shrimp-gumbo_big-boy-f3426ce8573547039a4e9662363a6e3c.jpeg"
+                            },
+                            {
+                              "name": "Red Beans and Rice",
+                              "ingredients": [
+                                "red kidney beans",
+                                "andouille sausage",
+                                "celery",
+                                "onion",
+                                "green bell pepper"
+                              ],
+                              "cooking_method": "1. Soak the beans overnight, then drain and rinse them.\n2. Cook the andouille sausage in a large pot until browned, then remove and set aside.\n3. Add chopped celery, onion, and green bell pepper to the pot and cook until the vegetables are softened.\n4. Add the beans, chicken broth, and spices to the pot and bring to a simmer.\n5. Cook the beans for about 2 hours, or until they are tender.\n6. Serve the beans over steamed rice, and top with the cooked andouille sausage.",
+                              "rating": 4.2,
+                              "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4262794.jpg&q=60&c=sc&orient=true&poi=auto&h=512"
+                            },
+                            {
+                              "name": "Chicken and Sausage Jambalaya",
+                              "ingredients": [
+                                "boneless, skinless chicken thighs",
+                                "andouille sausage",
+                                "onion",
+                                "green bell pepper",
+                                "celery"
+                              ],
+                              "cooking_method": "1. Cook the chicken thighs in a large pot until browned on both sides, then remove and set aside.\n2. Add chopped onion, green bell pepper, and celery to the pot and cook until the vegetables are softened.\n3. Add andouille sausage to the pot and cook until browned.\n4. Add diced tomatoes, chicken broth, and spices to the pot and bring to a simmer.\n5. Add the cooked chicken back to the pot, then add uncooked rice and stir to combine.\n6. Cover the pot and simmer until the rice is cooked and most of the liquid has been absorbed.\n7. Serve the jambalaya hot.",
+                              "rating": 4.4,
+                              "picture": "https://www.allrecipes.com/thmb/SHpwO1hz6SJz-U9kJ019RFzvkSU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/31848-Jambalaya-d05ac898514d463786a84379bae0b68b.jpg"
+           }]}
+                    
 
 
 ]
