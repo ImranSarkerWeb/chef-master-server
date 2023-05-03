@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "question": "Tell us the differences between uncontrolled and controlled components.",
+      "answer": "In React, controlled components are those whose value is controlled by React, while uncontrolled components have their value controlled by the DOM. Controlled components are typically used when you want to modify the value of a component from outside of the component, while uncontrolled components are used when the component should be able to update itself without external interference."
+    },
+    {
+      "id": 2,
+      "question": "How to validate React props using PropTypes?",
+      "answer": "PropTypes is a library that allows you to validate the properties passed to a React component. You can define the expected type of each prop and whether it is required or not. To use PropTypes, you need to import it from the 'prop-types' package and define the PropTypes object on your component."
+    },
+    {
+      "id": 3,
+      "question": "Tell us the difference between Node.js and Express.js.",
+      "answer": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to write server-side code using JavaScript. Express.js is a web framework built on top of Node.js that provides a set of tools and features for building web applications. While Node.js provides the core functionality for running server-side code, Express.js makes it easier to build web applications by providing features like routing, middleware, and templates."
+    },
+    {
+      "id": 4,
+      "question": "What is a custom hook, and why will you create a custom hook?",
+      "answer": "A custom hook is a function that allows you to reuse stateful logic across multiple components in a React application. Custom hooks are a way to abstract and share stateful logic in a reusable way, without the need for higher-order components or render props. You might create a custom hook when you have complex stateful logic that is used across multiple components, or when you want to separate concerns in your code and make it more modular."
+    }
+  ]
